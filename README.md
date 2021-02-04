@@ -3,3 +3,11 @@
 This is an example to use as a base to build a simple RESTful API in NodeJs and for begginers to quickly understand the basics.
 * I used [Express](https://expressjs.com/) to build the routing and set up my app.
 * [Helmet](http://google.com) has been added to have an extra layer of security.
+
+### Installation
+`npm install`
+
+### To start the app enter
+`node server.js `
+
+* Remember to add your mongodb connection url, DB name and Collection name. *
