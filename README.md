@@ -10,4 +10,4 @@ This is an example to use as a base to build a simple RESTful API in NodeJs and 
 ### To start the app enter
 `node server.js `
 
-* Remember to add your mongodb connection url, DB name and Collection name. *
+*Remember to add your mongodb connection url, DB name and Collection name.*
